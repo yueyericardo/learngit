@@ -2,4 +2,4 @@ Application for graduate School.
 Name: Jinze Xue
 University: Purdue University
 Preparation: Resume PS Transcript
-Preparated: Resume PS Transctipt
+Preparated: Resume PS Transctipt Research Proposal
