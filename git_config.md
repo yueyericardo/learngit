@@ -1,3 +1,4 @@
+```bash
 git config --global user.name "richard"
 git config --global user.email "yueyericardo@gmail.com"
 git config --global color.ui true 
@@ -6,7 +7,4 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 git config --global alias.last 'log -1'
 git config --global alias.unstage 'reset HEAD'
 git config --global alias.st 'status'
-
-git lg
-git last
-git unstage
+```
