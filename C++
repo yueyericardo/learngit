@@ -1,5 +1,5 @@
 
-### ±äÁ¿´óĞ¡
+### å˜é‡å¤§å°
 ```
 Size of char : 1
 Size of int : 4
@@ -10,16 +10,16 @@ Size of double : 8
 Size of wchar_t : 4
 ```
 
-###ÒıÓÃ
+### å¼•ç”¨
 
-°ÑÒıÓÃ×÷Îª²ÎÊı
+æŠŠå¼•ç”¨ä½œä¸ºå‚æ•°
 ```
 void swap(int& x, int& y)
 {
    int temp;
-   temp = x; /* ±£´æµØÖ· x µÄÖµ */
-   x = y;    /* °Ñ y ¸³Öµ¸ø x */
-   y = temp; /* °Ñ x ¸³Öµ¸ø y  */
+   temp = x; /* ä¿å­˜åœ°å€ x çš„å€¼ */
+   x = y;    /* æŠŠ y èµ‹å€¼ç»™ x */
+   y = temp; /* æŠŠ x èµ‹å€¼ç»™ y  */
   
    return;
 }
