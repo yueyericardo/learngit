@@ -13,7 +13,7 @@ Size of wchar_t : 4
 ### 引用
 
 把引用作为参数
-```
+```C++
 void swap(int& x, int& y)
 {
    int temp;
